@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shawn, an <a href="hhttps://linkedin.com/in/shawnarias"
+<h1>Hi, I'm Shawn, an <a href="https://linkedin.com/in/shawnarias"
 >IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
