@@ -8,6 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ShawnIT-J/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ShawnIT-J/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Resourse groups and virtual machines](https://github.com/ShawnIT-J/resource-groups-and-vms)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ShawnIT-J/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShawnIT-J/azure-network-protocols)
 
